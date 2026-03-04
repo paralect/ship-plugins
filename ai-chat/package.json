@@ -1,0 +1,14 @@
+{
+  "name": "ship-plugin-ai-chat",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "apps/api": {
+      "@ai-sdk/google": "3.0.29",
+      "ai": "6.0.86"
+    },
+    "apps/web": {
+      "@ai-sdk/react": "3.0.88"
+    }
+  }
+}

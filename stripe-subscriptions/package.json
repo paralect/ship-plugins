@@ -1,0 +1,10 @@
+{
+  "name": "ship-plugin-stripe-subscriptions",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "apps/api": {
+      "stripe": "20.3.1"
+    }
+  }
+}
